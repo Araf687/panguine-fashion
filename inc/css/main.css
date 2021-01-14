@@ -1,0 +1,74 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+p{
+    font-family: 'Open Sans', sans-serif;
+}
+.my-color{
+    color: #b3c765;
+}
+.my-btn{
+    color: #fff;
+    background-image: linear-gradient(#cce079, #b3c765);
+}
+.my-btn:hover{
+    color: #fff;
+    background-image: linear-gradient(#cce079, #b3c765);
+}
+
+.logo{
+    max-width: 250px;
+    height: auto;
+}
+
+.header-content h2{
+    font-size: 63px;
+    font-weight: 600;
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.product-section{
+    padding: 50px 0px 0px 0px;
+}
+.product-section-heading h2{
+    font-size: 36px;
+    font-weight: 600;
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+}
+.product-section-content h5{
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+.product-section-content p{
+    margin-bottom: 20px;
+}
+.product-section-content span{
+    font-size: 30px;
+    font-weight: 800;
+    font-family: 'open-sans', sans-serif;
+    color: #b3c765;
+}
+.info-section{
+    padding: 30px 0px;
+}
+.info-content{
+    margin-left: 12px;
+}
+.info-content h5{
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+footer{
+    text-align: center;
+    padding: 40px 0;
+}
+footer p{
+    font-weight: 600;
+}
